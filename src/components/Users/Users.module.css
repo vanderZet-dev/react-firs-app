@@ -1,0 +1,15 @@
+.users {
+  margin: 10px;
+}
+
+.users img{
+  width: 50px;
+  border-radius: 30px;
+}
+
+.userFrame {
+  border: solid 2px whitesmoke;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  padding: 5px;
+}

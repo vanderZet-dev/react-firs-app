@@ -1,0 +1,11 @@
+.descriptionBlock {
+    padding: 10px;
+}
+
+.descriptionBlock img{
+    max-width: 200px;
+}
+
+.profileHeaderImg {
+    max-height: 200px;    
+}
